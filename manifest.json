@@ -1,0 +1,22 @@
+{
+  "lang": "en",
+  "name": "Amandeep Singh (https://twitter.com/learn_n_share) 's profile",
+  "short_name": "Amandeep Singh",
+  "description": "Information about Web Developer Amandeep Singh (https://twitter.com/learn_n_share), links to social presence, and personal blog",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "/favicon/fi-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
